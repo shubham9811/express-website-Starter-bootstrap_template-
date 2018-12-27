@@ -1,4 +1,4 @@
-# express_bootstrap_template 
+# express-bootstrap-template 
 it as a whole will act as a new setup template for coming projects.
 
 
